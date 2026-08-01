@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+_report_images/
+_final.docx
+_final.pdf
+_tmp_report.*
+~$*
+.DS_Store
+Thumbs.db
